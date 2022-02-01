@@ -13,7 +13,7 @@ public class Factorial {
 		 * enter
 		 * 
 		 * What are my learnings from this code? 1) 2) 3)
-		 * Learnt iterator in better way alongside of assigning the right values in right place.
+		 * Learnt iterator in better way alongside of assigning the right values in right place. This is my first java program.
 		 */ 
 
 		// Declare your input as 5
